@@ -1,5 +1,6 @@
-## Hi there 👋
-## I'm Shernille Licud
+## I'm Shernille Licud 👋
+<h3 align="center">🌟 Passionate Frontend Developer | Turning Ideas Into Impactful Digital Experiences 🌟</h2>
+
 
 <!--
 **shernille37/shernille37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
