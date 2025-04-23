@@ -10,7 +10,7 @@
 
 - 🏫 I’m a Computer Science student at Università di Roma "La Sapienza" in Rome, Italy
 
-- 👨‍💻 Check out my projects at [My Portfolio]
+- 👨‍💻 Check out my projects at [My Portfolio] https://portfolio-shernille-licuds-projects.vercel.app/
 
 <br>
 
